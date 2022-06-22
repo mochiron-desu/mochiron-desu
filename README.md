@@ -3,6 +3,8 @@ I am a collage student who makes lofi music and is currently working with :
 - C
 - C++
 - Java
+- Python
+- NodeJS
 
 ## Socials :
 - Discord : mochiron_desu#0057
