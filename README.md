@@ -1,7 +1,10 @@
 # Hello there ! 👋
-I am a collage student who makes lofi music and is currently working with :
+I am a fullstack developer, equipped with 
 - Python
 - NodeJS
+- React
+- GraphQL
+- Flask
 
 ## Socials :
 - Discord : mochiron_desu#0057
