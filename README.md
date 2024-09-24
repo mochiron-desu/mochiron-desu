@@ -4,7 +4,7 @@
     <table>
         <tr>
             <td>
-                <p>I am a fullstack developer, equipped with:</p>
+                <p>I am a Fullstack developer, equipped with:</p>
                 <ul>
                     <li>Python</li>
                     <li>NodeJS</li>
