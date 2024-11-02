@@ -34,5 +34,6 @@
 
 ## Socials :
 - Discord : mochiron_desu#0057
+- About me: [mochiron-desu.github.io](https://mochiron-desu.github.io/)
 - Youtube : [Mochiron desu](https://www.youtube.com/c/MochironDesu)
 - Links : [Click here](https://linktr.ee/mochiron_desu)
